@@ -1,0 +1,53 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.det {
+  display: flex;
+  justify-content: flex-start;
+}
+.addr {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.datav {
+  display: flex;
+  flex-direction: column;
+  margin: 0em 3.8em 0em 0em;
+}
+
+.discr {
+  display: flex;
+  flex-direction: column;
+}
+.imgd {
+  display: flex;
+  flex-direction: row;
+  align-content: center;
+}
+
+.det {
+  display: flex;
+  justify-content: space-between;
+}
+.imgd img {
+  border-radius: 50%;
+}
+
+.namee {
+  margin: 1.3em;
+}
+.btn1 {
+  margin: 0em 1em;
+}
+.mybtn1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
